@@ -3,5 +3,5 @@ re101 == 0.4.0
 yieldfrom.urllib.request == 0.1.1
 discord == 2.3.2
 yt5 == 1.5.3
-dotenv == 0.0.5
+python-dotenv == 0.0.5
 flask == 2.3.3
