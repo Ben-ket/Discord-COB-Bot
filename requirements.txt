@@ -1,8 +1,7 @@
 asyncio
 re101 == 0.4.0
 urllib.request 
-os
-discord
+discord == 2.3.2
 yt_dlp
 dotenv
-flask
+flask == 2.3.3
