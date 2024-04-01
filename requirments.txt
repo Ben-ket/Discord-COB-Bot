@@ -1,0 +1,8 @@
+asyncio
+re
+urllib.request
+os
+discord
+yt_dlp
+dotenv
+flask
