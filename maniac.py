@@ -7,7 +7,6 @@ import discord
 import yt_dlp
 from dotenv import load_dotenv
 
-discord_token = 'MTIyMzcyNTEzMTY2NzQ3MjQ2NA.GYmChj.QYr_6cyRaHKKAq0pDWFX6WpS8hrVsxVbuC8230'
 
 
 def searchVid(prompt):
