@@ -1,6 +1,6 @@
 asyncio
-re
-urllib.request
+re == 0.4.0
+urllib.request 
 os
 discord
 yt_dlp
