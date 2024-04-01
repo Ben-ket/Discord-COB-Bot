@@ -1,6 +1,7 @@
 import asyncio
 import re
 import urllib.request
+import os
 
 import discord
 import yt_dlp
@@ -22,7 +23,7 @@ def searchVid(prompt):
 
 def run_bot():
   load_dotenv()
-  TOKEN = discord_token
+  TOKEN = os.environ.get("TOKEN")
   intents = discord.Intents.default()
   intents.message_content = True
   client = discord.Client(intents=intents)
