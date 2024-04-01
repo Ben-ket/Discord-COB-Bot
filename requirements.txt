@@ -1,5 +1,5 @@
 asyncio
-re == 0.4.0
+re101 == 0.4.0
 urllib.request 
 os
 discord
