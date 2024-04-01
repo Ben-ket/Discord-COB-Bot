@@ -6,6 +6,7 @@ import os
 import discord
 import yt_dlp
 from dotenv import load_dotenv
+from keep_alive import keep_alive
 
 
 
