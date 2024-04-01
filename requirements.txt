@@ -2,6 +2,6 @@ asyncio
 re101 == 0.4.0
 yieldfrom.urllib.request == 0.1.1
 discord == 2.3.2
-yt_dip
+yt_dlp
 python-dotenv == 1.0.1
 flask == 2.3.3
