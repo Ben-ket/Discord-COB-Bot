@@ -1,4 +1,3 @@
-import maniac
 import musicbot
 
 if __name__ == "__main__":
