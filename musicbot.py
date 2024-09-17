@@ -4,6 +4,7 @@ import urllib.request
 import urllib.parse
 import random
 import aiohttp
+import os
 
 import discord
 import yt_dlp
