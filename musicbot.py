@@ -13,9 +13,10 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 load_dotenv()
 discord_token = os.environ.get("TOKEN")
+spotify_client_secret = os.environ.get("Spotify_Secret")
 
-spotify_client_id = 'b'
-spotify_client_secret = 'c
+spotify_client_id = '35ed4bec7ee8456cba26c34e5c7710d4'
+
 
 # Set up Spotify credentials
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
