@@ -1,4 +1,5 @@
 import maniac
+import musicbot
 
 if __name__ == "__main__":
-    maniac.run_bot()
+    musicbot.run()
