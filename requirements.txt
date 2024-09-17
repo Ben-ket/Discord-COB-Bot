@@ -3,4 +3,5 @@ discord.py==2.3.1
 python-dotenv==0.21.0
 yt-dlp==2024.9.1.235933.dev0
 spotipy==2.20.0
+pynacl==1.5.0
 
