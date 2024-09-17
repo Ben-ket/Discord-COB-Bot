@@ -11,7 +11,9 @@ from dotenv import load_dotenv
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-discord_token = 'a'
+load_dotenv()
+discord_token = os.environ.get("TOKEN")
+
 spotify_client_id = 'b'
 spotify_client_secret = 'c
 
